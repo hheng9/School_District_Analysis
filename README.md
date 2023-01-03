@@ -18,5 +18,8 @@ After importing our file we needed to clean up the data to remove all unecessary
 
 ![int1](https://user-images.githubusercontent.com/118647523/210296447-cf51d954-33e6-4937-8813-eca7847ee603.png)![int2](https://user-images.githubusercontent.com/118647523/210296450-6e93d4c1-0292-4148-a4ac-05e9bd21c224.png)
 
+## Summarizing the Data
+We can generate data counts, averages, deviations, min/max values by performing the describe function as listed below. With the correct code I was able to gather the average math scores and minimum reading scores as requested. 
 
+![describe](https://user-images.githubusercontent.com/118647523/210297158-9a326613-3b4d-4e43-baa5-4050f0ea8adb.png)
 
