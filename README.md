@@ -39,13 +39,14 @@ As we can tell from the data collected Charter schools performed slightly better
 ![comparison2](https://user-images.githubusercontent.com/118647523/210298713-5ef06259-bedf-4f3c-b05e-004ac8b9d88f.png)![comparison3](https://user-images.githubusercontent.com/118647523/210298717-eae891dc-4eaf-484c-aeb7-7b775594ab55.png)
 
 ## Summary of Data
- -The overall math score came out to 64.67% and a minimum reading score of 10.5.
- -Matthew Thomas from Dixon High School had the lowest reading score from all the schools.
- -Dixon High is a charter school with a 95.3 high for their reading scores. 
- -The average between 11th and 12th grade reading scores came out to around 75%.
- -Charter schools performed slightly better in their reading scores and their math scores.
- -Motogomery High School has the highest population of students attending their school.
- -Chang High School having the least amount of students attending their school.
- -The average math score is higher in the earlier years of the charter schools.
- -The average math score is more consistant throughout all the grades in public schools.
- The average math score is higher in the earlier years of the charter schools
+ * The overall math score came out to 64.67% and a minimum reading score of 10.5.
+ * Matthew Thomas from Dixon High School had the lowest reading score from all the schools.
+ * Dixon High is a charter school with a 95.3 high for their reading scores. 
+ * The average between 11th and 12th grade reading scores came out to around 75%.
+ * Charter schools performed slightly better in their reading scores and their math scores.
+ * Motogomery High School has the highest population of students attending their school.
+ * Chang High School having the least amount of students attending their school.
+ * The average math score is higher in the earlier years of the charter schools.
+ * The average math score is more consistant throughout all the grades in public schools.
+ * The average math score is higher in the earlier years of the charter schools
+
