@@ -48,5 +48,5 @@ As we can tell from the data collected Charter schools performed slightly better
  * Chang High School having the least amount of students attending their school.
  * The average math score is higher in the earlier years of the charter schools.
  * The average math score is more consistant throughout all the grades in public schools.
- * The average math score is higher in the earlier years of the charter schools
+ * The average math score is higher in the earlier years of the charter schools.
 
