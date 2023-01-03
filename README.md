@@ -6,4 +6,5 @@
 ## School District Analysis Results
 ### Collecting the Data
 We began our analysis by importing Pasndas and the OS function by setting the read function to the supplied CSV path then verifying the data was imported correctly.
+
 ![importCSV](https://user-images.githubusercontent.com/118647523/210295208-ca87097e-9015-4a33-81a4-8ef1b23d9291.png)
