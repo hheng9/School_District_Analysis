@@ -23,3 +23,15 @@ We can generate data counts, averages, deviations, min/max values by performing 
 
 ![describe](https://user-images.githubusercontent.com/118647523/210297158-9a326613-3b4d-4e43-baa5-4050f0ea8adb.png)
 
+## Specified Data
+I performed the location and index location function to pull up specific schools, scores, and grades. We are able to collect the assigned data to view describe data in grade 9, minimum overall reading scores, and all reading scores from the 10th grade. This makes is cleaner to view the desired information and filter out and unwanted data.
+
+![specific2](https://user-images.githubusercontent.com/118647523/210297854-82a1c9da-5d42-4020-ba17-15ae6d385501.png)![specific1](https://user-images.githubusercontent.com/118647523/210297857-f1230e6d-0bf9-4c04-ba2a-c9d8132f32b2.png)
+
+![specific3](https://user-images.githubusercontent.com/118647523/210297859-b3da4f8e-8be3-4cc3-8269-74f576589bbf.png)
+
+![specific4](https://user-images.githubusercontent.com/118647523/210297868-33db43ac-408b-43b2-8855-d6a8c2cac31d.png)
+
+
+
+
