@@ -10,7 +10,7 @@ We began our analysis by importing Pasndas and the OS function by setting the re
 ![importCSV](https://user-images.githubusercontent.com/118647523/210295208-ca87097e-9015-4a33-81a4-8ef1b23d9291.png)
 
 ## Prepping the Data
-After importing our file we needed to clean up the data to remove all unecessary information for better accesiblility. By doing so we needed to remove or drop missing values, NaN values, duplicate rows, unwanted suffix, and understanding or changing data types.
+After importing our file we needed to clean up the data to remove all unecessary information for better accesiblility. By doing so we needed to remove or drop missing values, NaN values, duplicate rows, unwanted suffix, and understanding or changing data types to possible float/integers.
 
 ![drop1](https://user-images.githubusercontent.com/118647523/210296414-343ff043-7ab1-4b1f-8b68-f2903145f549.png)![drop2](https://user-images.githubusercontent.com/118647523/210296424-10239fee-86b2-40db-958c-f843129a1f10.png)![types1](https://user-images.githubusercontent.com/118647523/210296436-e8c852d0-0b28-44e6-a511-552332752eb1.png)![types2](https://user-images.githubusercontent.com/118647523/210296667-55274862-1edd-40a5-a457-e56e147fe29b.png)
 
