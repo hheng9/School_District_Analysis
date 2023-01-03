@@ -19,7 +19,7 @@ After importing our file we needed to clean up the data to remove all unecessary
 ![int1](https://user-images.githubusercontent.com/118647523/210296447-cf51d954-33e6-4937-8813-eca7847ee603.png)![int2](https://user-images.githubusercontent.com/118647523/210296450-6e93d4c1-0292-4148-a4ac-05e9bd21c224.png)
 
 ## Summarizing the Data
-We can generate data counts, averages, deviations, min/max values by performing the describe function as listed below. With the correct code I was able to gather the average math scores and minimum reading scores as requested. 
+We can generate data counts, averages, deviations, min/max values by performing the describe function as listed below. With the correct code I was able to gather the average math scores and minimum reading scores as requested. The overall math score came out to 64.67% and a minimum reading score of 10.5.
 
 ![describe](https://user-images.githubusercontent.com/118647523/210297158-9a326613-3b4d-4e43-baa5-4050f0ea8adb.png)
 
@@ -32,6 +32,10 @@ I performed the location and index location function to pull up specific schools
 
 ![specific4](https://user-images.githubusercontent.com/118647523/210297868-33db43ac-408b-43b2-8855-d6a8c2cac31d.png)
 
+## Difference Bewtween District and Charter Schools
+As we can tell from the data collected Charter schools performed slightly better in their reading scores and their math scores. Motogomery High School has the highest population of students attending their school with Chang High School having the least amount of students attending their school. The average math score is higher in the earlier years of the charter schools but is more consistant throughout all the grades in in public schools.
 
+![comparison1](https://user-images.githubusercontent.com/118647523/210298703-d4f0392c-4630-490c-b4be-61c39d76fbdf.png)
 
+![comparison2](https://user-images.githubusercontent.com/118647523/210298713-5ef06259-bedf-4f3c-b05e-004ac8b9d88f.png)![comparison3](https://user-images.githubusercontent.com/118647523/210298717-eae891dc-4eaf-484c-aeb7-7b775594ab55.png)
 
