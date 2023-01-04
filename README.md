@@ -22,6 +22,7 @@ After importing our file we needed to clean up the data to remove all unecessary
 We can generate data counts, averages, deviations, min/max values by performing the describe function as listed below. With the correct code I was able to gather the average math scores and minimum reading scores as requested. The overall math score came out to 64.67% and a minimum reading score of 10.5.
 
 ![describe](https://user-images.githubusercontent.com/118647523/210297158-9a326613-3b4d-4e43-baa5-4050f0ea8adb.png)
+![summarizing](https://user-images.githubusercontent.com/118647523/210482970-f69e7797-1019-4ce1-ac8a-efebee135c83.png)
 
 ## Specified Data
 I performed the location and index location function to pull up specific schools, scores, and grades. We are able to collect the assigned data to view describe data in grade 9, minimum overall reading scores, and all reading scores from the 10th grade. This makes is cleaner to view the desired information and filter out and unwanted data. Matthew Thomas from Dixon High School had the lowest reading score from all the schools. Dixon High is a charter school with a 95.3 high for their reading scores. The average between 11th and 12th grade reading scores came out to around 75%.
