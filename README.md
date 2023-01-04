@@ -28,18 +28,27 @@ We can generate data counts, averages, deviations, min/max values by performing 
 
 ## Specified Data
 I performed the location and index location function to pull up specific schools, scores, and grades. We are able to collect the assigned data to view describe data in grade 9, minimum overall reading scores, and all reading scores from the 10th grade. This makes is cleaner to view the desired information and filter out and unwanted data. Matthew Thomas from Dixon High School had the lowest reading score from all the schools. Dixon High is a charter school with a 95.3 high for their reading scores. The average between 11th and 12th grade reading scores came out to around 75%.
-
-![specific2](https://user-images.githubusercontent.com/118647523/210297854-82a1c9da-5d42-4020-ba17-15ae6d385501.png)![specific1](https://user-images.githubusercontent.com/118647523/210297857-f1230e6d-0bf9-4c04-ba2a-c9d8132f32b2.png)
-
-![specific3](https://user-images.githubusercontent.com/118647523/210297859-b3da4f8e-8be3-4cc3-8269-74f576589bbf.png)
-
-![specific4](https://user-images.githubusercontent.com/118647523/210297868-33db43ac-408b-43b2-8855-d6a8c2cac31d.png)
+### Grade column 
+![GradeColumn](https://user-images.githubusercontent.com/118647523/210484336-23416349-3736-440b-bd40-75c919866623.png)
+### The first three rows of Columns 3, 4, and 5
+![specific1](https://user-images.githubusercontent.com/118647523/210484416-ea32201e-8da3-4ed1-ba73-610e9af2a353.png)
+### The summary statistics for 9th graders
+![specific4](https://user-images.githubusercontent.com/118647523/210484504-47a6eca2-5f24-480c-b939-ebfe89bef7e9.png)
+### Minimum reading score
+![specific3](https://user-images.githubusercontent.com/118647523/210484576-8ad3d356-07bd-4a2f-b1ed-586f4cafb03a.png)
+### The reading scores of the 10th graders at Dixon High School
+![specific2](https://user-images.githubusercontent.com/118647523/210297854-82a1c9da-5d42-4020-ba17-15ae6d385501.png)!
+### The average reading score of all the students in Grades 11 and 12 combined
+![11-12_avg_read](https://user-images.githubusercontent.com/118647523/210484766-b9bc7934-4af1-4395-b1f0-0422be53f670.png)
 
 ## Difference Bewtween District and Charter Schools
 As we can tell from the data collected Charter schools performed slightly better in their reading scores and their math scores. Motogomery High School has the highest population of students attending their school with Chang High School having the least amount of students attending their school. The average math score is higher in the earlier years of the charter schools but is more consistant throughout all the grades in public schools.
-
+### The average reading and math scores for school types
+![comparison2](https://user-images.githubusercontent.com/118647523/210485019-94e95c7e-7f67-4ddd-a8ee-f9534c5bcff9.png)
+### The total number of students per school
 ![comparison1](https://user-images.githubusercontent.com/118647523/210298703-d4f0392c-4630-490c-b4be-61c39d76fbdf.png)
-![comparison2](https://user-images.githubusercontent.com/118647523/210298713-5ef06259-bedf-4f3c-b05e-004ac8b9d88f.png)![comparison3](https://user-images.githubusercontent.com/118647523/210481514-a83659a5-766a-45cb-8ebe-c023a54b01d6.png)
+### Average math scores for school types and grade levels
+![comparison3](https://user-images.githubusercontent.com/118647523/210481514-a83659a5-766a-45cb-8ebe-c023a54b01d6.png)
 
 
 ## Summary of Data
