@@ -21,8 +21,9 @@ After importing our file we needed to clean up the data to remove all unecessary
 
 ## Summarizing the Data
 We can generate data counts, averages, deviations, min/max values by performing the describe function as listed below. With the correct code I was able to gather the average math scores and minimum reading scores as requested. The overall math score came out to 64.67% and a minimum reading score of 10.5.
-
+### Summary statistics
 ![describe](https://user-images.githubusercontent.com/118647523/210297158-9a326613-3b4d-4e43-baa5-4050f0ea8adb.png)
+### The mean of the "math_score" and min "read_score"
 ![summarizing](https://user-images.githubusercontent.com/118647523/210482970-f69e7797-1019-4ce1-ac8a-efebee135c83.png)
 
 ## Specified Data
