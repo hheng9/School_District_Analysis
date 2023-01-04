@@ -28,7 +28,7 @@ We can generate data counts, averages, deviations, min/max values by performing 
 
 ## Specified Data
 I performed the location and index location function to pull up specific schools, scores, and grades. We are able to collect the assigned data to view describe data in grade 9, minimum overall reading scores, and all reading scores from the 10th grade. This makes is cleaner to view the desired information and filter out and unwanted data. Matthew Thomas from Dixon High School had the lowest reading score from all the schools. Dixon High is a charter school with a 95.3 high for their reading scores. The average between 11th and 12th grade reading scores came out to around 75%.
-### Grade column 
+### Grade columns 
 ![GradeColumn](https://user-images.githubusercontent.com/118647523/210484336-23416349-3736-440b-bd40-75c919866623.png)
 ### The first three rows of Columns 3, 4, and 5
 ![specific1](https://user-images.githubusercontent.com/118647523/210484416-ea32201e-8da3-4ed1-ba73-610e9af2a353.png)
